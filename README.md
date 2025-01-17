@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Alexandra Cabrera</h1>
-<h3 align="center">A passionate frontend developer from Ecuador</h3>
+<h3 align="center">A passionate data scientist and full-stack developer from Ecuador</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alexandracabreralituma&label=Profile%20views&color=0e75b6&style=flat" alt="alexandracabreralituma" /> </p>
 
-- 🔭 I’m currently working as **Data Science**
+- 🔭  I’m currently working on data transformation, automation, and processing, implementing improvements with artificial intelligence.
 
 - 🌱 I’m currently learning **Spark,Hadoop**
 
